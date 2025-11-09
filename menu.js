@@ -2,7 +2,7 @@
   const qs = new URLSearchParams(window.location.search);
 
   // Varsayılan: ceenesbicakci/restoran-menu-app-mobil repo'sundan menu.json
-  const DEFAULT_RAW_URL = 'https://raw.githubusercontent.com/ceenesbicakci/restoran-menu-app-mobil/main/menu.json';
+  const DEFAULT_RAW_URL = 'https://raw.githubusercontent.com/MESoftMenu/EymenPastanesi/main/menu.json';
 
   // Kaynak belirleme önceliği: src -> default raw URL -> local
   function resolveSourceUrl() {
@@ -235,5 +235,6 @@
 
   window.MenuApp = { init };
 })();
+
 
 
