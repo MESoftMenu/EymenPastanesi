@@ -81,11 +81,32 @@
       "name": "Soğuk İçecek",
       "description": "",
       "items": []
+    },
+    {
+      "id": "aa665611-20d0-43be-a63d-e8e67ed81e1a",
+      "name": "Atıştırmalıklar",
+      "description": "",
+      "items": [
+        {
+          "id": "afce44df-7043-4d1e-a138-edb76e0c185b",
+          "name": "Kurabiye",
+          "price": 15.0,
+          "desc": "",
+          "image": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "3ba3f997-b667-42cc-b9c4-46b6ba042eb6",
+      "name": "Atıştırmalıklar",
+      "description": "",
+      "items": []
     }
   ],
-  "updatedAt": "2025-11-13T01:47:25.3616934Z",
+  "updatedAt": "2025-11-13T10:36:47.5360285Z",
   "themeColors": {
-    "bgColor": "#0b0b0c",
+    "bgColor": "#FF0B0B0C",
     "cardColor": "#121214",
     "textColor": "#f3f4f6",
     "mutedColor": "#9ca3af",
