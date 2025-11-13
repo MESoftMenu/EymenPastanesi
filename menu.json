@@ -3,93 +3,34 @@
     "name": "Eymen Pasta Cafe",
     "currency": "TRY",
     "logo": "",
-    "address": "",
-    "phone": ""
+    "address": "Cumhuriyet Caddesi No:24",
+    "phone": "(0264) 319 2184"
   },
   "categories": [
     {
       "id": "1",
-      "name": "Sıcak İçecek",
-      "description": "",
-      "items": [
-        {
-          "id": "37de0956-ba9f-4f49-ae3a-7088df64d9a4",
-          "name": "Kahve",
-          "price": 55.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        },
-        {
-          "id": "1",
-          "name": "Çay",
-          "price": 20.0,
-          "desc": "",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61UxuSNZu5IHdWaxPniB8OqMxqhpmGomd1Q&s",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "Soğuk İçecek",
+      "name": "poğaça",
       "description": "",
       "items": [
         {
           "id": "1",
-          "name": "Su",
+          "name": "Peynirli poğaça",
           "price": 15.0,
           "desc": "",
           "image": "",
           "tags": []
         }
       ]
-    },
-    {
-      "id": "aa665611-20d0-43be-a63d-e8e67ed81e1a",
-      "name": "Atıştırmalıklar",
-      "description": "",
-      "items": [
-        {
-          "id": "afce44df-7043-4d1e-a138-edb76e0c185b",
-          "name": "Kurabiye",
-          "price": 15.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": "8f8e166d-e680-49e1-9072-f0b5aaf70151",
-      "name": "Pastalar",
-      "description": "",
-      "items": [
-        {
-          "id": "bbd37f31-f0b4-4824-8f43-b24e84f072e7",
-          "name": "Mozaik ",
-          "price": 40.0,
-          "desc": "Dilim",
-          "image": "",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": "d4babda9-71f0-468b-b92b-c52906e7ed3d",
-      "name": "Tuzlular",
-      "description": "",
-      "items": []
     }
   ],
-  "updatedAt": "2025-11-13T22:25:37.7593216Z",
+  "updatedAt": "2025-11-13T23:05:22.531044Z",
   "themeColors": {
-    "bgColor": "#FFFFFFE0",
-    "cardColor": "#FF808080",
-    "textColor": "#FF000000",
-    "mutedColor": "#FF000000",
-    "accentColor": "#FF000000",
-    "borderColor": "#FF000000",
-    "categoryTextColor": "#FF000000"
+    "bgColor": "#f3f4f6",
+    "cardColor": "#9ca3af",
+    "textColor": "#121214",
+    "mutedColor": "#9ca3af",
+    "accentColor": "#f59e0b",
+    "borderColor": "#1f2937",
+    "categoryTextColor": "#111827"
   }
 }
