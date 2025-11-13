@@ -13,19 +13,19 @@
       "description": "",
       "items": [
         {
-          "id": "1",
-          "name": "Çay",
-          "price": 20.0,
-          "desc": "",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61UxuSNZu5IHdWaxPniB8OqMxqhpmGomd1Q&s",
-          "tags": []
-        },
-        {
           "id": "37de0956-ba9f-4f49-ae3a-7088df64d9a4",
           "name": "Kahve",
           "price": 55.0,
           "desc": "",
           "image": "",
+          "tags": []
+        },
+        {
+          "id": "1",
+          "name": "Çay",
+          "price": 20.0,
+          "desc": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61UxuSNZu5IHdWaxPniB8OqMxqhpmGomd1Q&s",
           "tags": []
         }
       ]
@@ -82,7 +82,7 @@
       "items": []
     }
   ],
-  "updatedAt": "2025-11-13T16:06:52.8589448Z",
+  "updatedAt": "2025-11-13T21:54:31.6393561Z",
   "themeColors": {
     "bgColor": "#0b0b0c",
     "cardColor": "#121214",
