@@ -54,35 +54,6 @@
       ]
     },
     {
-      "id": "2ef4e538-e027-48c4-ade1-73a4d9f4a364",
-      "name": "Sıcak İçecek",
-      "description": "",
-      "items": [
-        {
-          "id": "5e030dab-d607-4099-8784-1b7d66066856",
-          "name": "Türk Kahvesi",
-          "price": 50.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        },
-        {
-          "id": "f5cd4653-b354-476c-88fe-d9a2d7888cd0",
-          "name": "Çay",
-          "price": 10.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": "0ff1d256-1fd0-4ae0-a5e0-21524bc9cf3e",
-      "name": "Soğuk İçecek",
-      "description": "",
-      "items": []
-    },
-    {
       "id": "aa665611-20d0-43be-a63d-e8e67ed81e1a",
       "name": "Atıştırmalıklar",
       "description": "",
@@ -104,9 +75,9 @@
       "items": []
     }
   ],
-  "updatedAt": "2025-11-13T10:36:47.5360285Z",
+  "updatedAt": "2025-11-13T10:37:07.0898058Z",
   "themeColors": {
-    "bgColor": "#FF0B0B0C",
+    "bgColor": "#0b0b0c",
     "cardColor": "#121214",
     "textColor": "#f3f4f6",
     "mutedColor": "#9ca3af",
