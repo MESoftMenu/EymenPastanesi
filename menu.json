@@ -17,15 +17,7 @@
           "name": "Çay",
           "price": 20.0,
           "desc": "",
-          "image": "",
-          "tags": []
-        },
-        {
-          "id": "ed5613a7-82e7-4569-b836-b31ab5d092b2",
-          "name": "Latte",
-          "price": 60.0,
-          "desc": "",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61UxuSNZu5IHdWaxPniB8OqMxqhpmGomd1Q&s",
           "tags": []
         },
         {
@@ -46,7 +38,7 @@
         {
           "id": "1",
           "name": "Su",
-          "price": 10.0,
+          "price": 15.0,
           "desc": "",
           "image": "",
           "tags": []
@@ -84,13 +76,13 @@
       ]
     },
     {
-      "id": "4280cd48-cebd-43fb-a254-fb49f458fabe",
+      "id": "d4babda9-71f0-468b-b92b-c52906e7ed3d",
       "name": "Tuzlular",
       "description": "",
       "items": []
     }
   ],
-  "updatedAt": "2025-11-13T12:29:12.0801009Z",
+  "updatedAt": "2025-11-13T15:57:33.6664741Z",
   "themeColors": {
     "bgColor": "#0b0b0c",
     "cardColor": "#121214",
