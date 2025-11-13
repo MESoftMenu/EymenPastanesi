@@ -3,34 +3,18 @@
     "name": "Eymen Pasta Cafe",
     "currency": "TRY",
     "logo": "",
-    "address": "Cumhuriyet Caddesi No:24",
-    "phone": "(0264) 319 2184"
+    "address": "",
+    "phone": ""
   },
-  "categories": [
-    {
-      "id": "1",
-      "name": "poğaça",
-      "description": "",
-      "items": [
-        {
-          "id": "1",
-          "name": "Peynirli poğaça",
-          "price": 15.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        }
-      ]
-    }
-  ],
-  "updatedAt": "2025-11-13T23:05:22.531044Z",
+  "categories": [],
+  "updatedAt": "2025-11-13T23:32:28.379247Z",
   "themeColors": {
-    "bgColor": "#f3f4f6",
-    "cardColor": "#9ca3af",
-    "textColor": "#121214",
-    "mutedColor": "#9ca3af",
-    "accentColor": "#f59e0b",
-    "borderColor": "#1f2937",
-    "categoryTextColor": "#111827"
+    "bgColor": "#FFFFFFE0",
+    "cardColor": "#FF808080",
+    "textColor": "#FFFFFFFF",
+    "mutedColor": "#FF000000",
+    "accentColor": "#FF000000",
+    "borderColor": "#FF000000",
+    "categoryTextColor": "#FF000000"
   }
 }
