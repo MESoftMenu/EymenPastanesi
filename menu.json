@@ -67,9 +67,30 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": "8f8e166d-e680-49e1-9072-f0b5aaf70151",
+      "name": "Pastalar",
+      "description": "",
+      "items": [
+        {
+          "id": "bbd37f31-f0b4-4824-8f43-b24e84f072e7",
+          "name": "Mozaik ",
+          "price": 40.0,
+          "desc": "Dilim",
+          "image": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "4280cd48-cebd-43fb-a254-fb49f458fabe",
+      "name": "Tuzlular",
+      "description": "",
+      "items": []
     }
   ],
-  "updatedAt": "2025-11-13T10:37:07.0898058Z",
+  "updatedAt": "2025-11-13T12:29:12.0801009Z",
   "themeColors": {
     "bgColor": "#0b0b0c",
     "cardColor": "#121214",
