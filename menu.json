@@ -21,6 +21,14 @@
           "tags": []
         },
         {
+          "id": "ed5613a7-82e7-4569-b836-b31ab5d092b2",
+          "name": "Latte",
+          "price": 60.0,
+          "desc": "",
+          "image": "",
+          "tags": []
+        },
+        {
           "id": "37de0956-ba9f-4f49-ae3a-7088df64d9a4",
           "name": "Kahve",
           "price": 55.0,
@@ -44,9 +52,38 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": "2ef4e538-e027-48c4-ade1-73a4d9f4a364",
+      "name": "Sıcak İçecek",
+      "description": "",
+      "items": [
+        {
+          "id": "5e030dab-d607-4099-8784-1b7d66066856",
+          "name": "Türk Kahvesi",
+          "price": 50.0,
+          "desc": "",
+          "image": "",
+          "tags": []
+        },
+        {
+          "id": "f5cd4653-b354-476c-88fe-d9a2d7888cd0",
+          "name": "Çay",
+          "price": 10.0,
+          "desc": "",
+          "image": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "0ff1d256-1fd0-4ae0-a5e0-21524bc9cf3e",
+      "name": "Soğuk İçecek",
+      "description": "",
+      "items": []
     }
   ],
-  "updatedAt": "2025-11-13T01:36:11.076997Z",
+  "updatedAt": "2025-11-13T01:47:25.3616934Z",
   "themeColors": {
     "bgColor": "#0b0b0c",
     "cardColor": "#121214",
