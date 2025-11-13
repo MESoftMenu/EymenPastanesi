@@ -82,14 +82,14 @@
       "items": []
     }
   ],
-  "updatedAt": "2025-11-13T22:13:41.2157076Z",
+  "updatedAt": "2025-11-13T22:25:37.7593216Z",
   "themeColors": {
-    "bgColor": "#0b0b0c",
-    "cardColor": "#121214",
-    "textColor": "#f3f4f6",
-    "mutedColor": "#9ca3af",
-    "accentColor": "#22c55e",
-    "borderColor": "#1f2937",
-    "categoryTextColor": "#f3f4f6"
+    "bgColor": "#FFFFFFE0",
+    "cardColor": "#FF808080",
+    "textColor": "#FF000000",
+    "mutedColor": "#FF000000",
+    "accentColor": "#FF000000",
+    "borderColor": "#FF000000",
+    "categoryTextColor": "#FF000000"
   }
 }
