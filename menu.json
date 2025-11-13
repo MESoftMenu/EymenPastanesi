@@ -6,8 +6,15 @@
     "address": "",
     "phone": ""
   },
-  "categories": [],
-  "updatedAt": "2025-11-13T23:32:28.379247Z",
+  "categories": [
+    {
+      "id": "8998357e-0a3a-46ff-9a28-b95fd1a2d71e",
+      "name": "Sıcak İçecek",
+      "description": "",
+      "items": []
+    }
+  ],
+  "updatedAt": "2025-11-13T23:33:45.5940492Z",
   "themeColors": {
     "bgColor": "#FFFFFFE0",
     "cardColor": "#FF808080",
