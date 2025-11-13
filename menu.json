@@ -14,11 +14,11 @@
       "items": []
     }
   ],
-  "updatedAt": "2025-11-13T23:33:45.5940492Z",
+  "updatedAt": "2025-11-13T23:50:18.4793055Z",
   "themeColors": {
     "bgColor": "#FFFFFFE0",
     "cardColor": "#FF808080",
-    "textColor": "#FFFFFFFF",
+    "textColor": "#FF000000",
     "mutedColor": "#FF000000",
     "accentColor": "#FF000000",
     "borderColor": "#FF000000",
