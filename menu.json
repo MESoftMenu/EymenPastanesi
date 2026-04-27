@@ -13,14 +13,6 @@
       "description": "",
       "items": [
         {
-          "id": "3",
-          "name": "su",
-          "price": 10.0,
-          "desc": "",
-          "image": "",
-          "tags": []
-        },
-        {
           "id": "2",
           "name": "çay",
           "price": 20.0,
@@ -31,7 +23,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-16T15:52:34.894923Z",
+  "updatedAt": "2026-04-27T17:16:14.394911Z",
   "themeColors": {
     "bgColor": "#FFFFFFE0",
     "cardColor": "#FF808080",
